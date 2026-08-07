@@ -1,6 +1,6 @@
 author = 'Oxalin'
 country_code = 'GB'
-description = "Great Eastern Main Line from Ipswich to Diss, and Felixstowe branch"
+description = "Great Eastern Main Line from Ipswich to Diss, and Felixstowe branch."
 display_name = 'Ipswich'
 doc_files = [ 'Ipswich.md' ]
 factual = true
