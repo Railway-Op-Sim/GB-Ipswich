@@ -11,5 +11,5 @@ rly_file = 'Ipswich.rly'
 ssn_files = [ 'Ipswich Initial Session.ssn']
 ttb_files = [ 'Ipswich 11-09-24.ttb' ]
 year = 2024
-signal_position - "left"
+signal_position = "left"
 version = '1.0.0'
